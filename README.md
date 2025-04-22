@@ -1,4 +1,4 @@
-# pici-pici-lamanici
+# pici-pici-llamanici
 An LLM optimized for the Italian language
 
 <p align="center">
